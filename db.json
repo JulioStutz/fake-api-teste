@@ -1,1 +1,60 @@
-
+{
+   "usuarios":[
+      {
+         "usuario":{
+            "id":"1",
+            "nomeCompleto":"julio",
+            "cpf":"000000000",
+            "senha":"123",
+            "matricula":"123",
+            "informacoes":""
+         },
+         "exercicios":[
+            {
+               "categoria":"Costas",
+               "nome":"Barra fixa",
+               "selecionado":"true",
+               "serie":"2",
+               "repeticao":"3",
+               "eoC???":"1"
+            },
+            {
+               "categoria":"Pernas",
+               "nome":"Barra fixa",
+               "selecionado":"",
+               "serie":"",
+               "repeticao":"",
+               "eoC???":""
+            }
+         ]
+      },
+      {
+         "usuario":{
+            "id":"2",
+            "nomeCompleto":"julio2",
+            "cpf":"000000000",
+            "senha":"123",
+            "matricula":"123",
+            "informacoes":""
+         },
+         "exercicios":[
+            {
+               "categoria":"Costas",
+               "nome":"Barra fixa",
+               "selecionado":"true",
+               "serie":"2",
+               "repeticao":"3",
+               "eoC???":"1"
+            },
+            {
+               "categoria":"Pernas",
+               "nome":"Barra fixa",
+               "selecionado":"",
+               "serie":"",
+               "repeticao":"",
+               "eoC???":""
+            }
+         ]
+      }
+   ]
+}
