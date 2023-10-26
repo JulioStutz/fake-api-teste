@@ -1,8 +1,8 @@
 {
    "usuarios":[
       {
+         "id":"1",
          "usuario":{
-            "id":"1",
             "nomeCompleto":"julio",
             "cpf":"000000000",
             "senha":"123",
@@ -29,8 +29,8 @@
          ]
       },
       {
+         "id":"2",
          "usuario":{
-            "id":"2",
             "nomeCompleto":"julio2",
             "cpf":"000000000",
             "senha":"123",
